@@ -3,15 +3,15 @@ Distributionally Robust Optimization with Unscented Transform for Learning-Based
 
 This repository includes the source code for implementing the distributionally robust UT-MPC algorithm with all the baselines presented in the paper.
 
-## Requirements
+## 1. Requirements
 - CARLA simulator
 - Python (>= 3.5)
 - Forces Pro
-- GPy
-- Python packages, such as numpy, scipy, matplotlib, etc.
-- casadi
+- Casadi
+- Python packages, such as GPy, numpy, scipy, matplotlib, etc.
 
-## Usage
+
+## 2. Quick Start
 
 To run the experiments, first execute the CARLA simulator:
 ```
